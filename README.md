@@ -48,7 +48,7 @@ Welcome to the ChatBot project repository! This project implements a real-time c
 5. Open your browser and go to `http://localhost:8000` to access the chat application.
 
 ## Contributor
-- [Anmol Khari](#)
+- [Anmol Khari](https://github.com/)
 
 Feel free to reach out to any of the contributors if you have questions or feedback!
 
