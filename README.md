@@ -1,7 +1,7 @@
 Sure, let's create a simple README.md file for your GitHub repository. Feel free to customize it further based on your project's specific details.
 
 ```markdown
-# ChatBot (Node.js)
+# Chat Application (Node.js)
 
 Welcome to the ChatBot project repository! This project implements a real-time chat application using Node.js and Socket.io.
 
@@ -47,13 +47,8 @@ Welcome to the ChatBot project repository! This project implements a real-time c
 
 5. Open your browser and go to `http://localhost:8000` to access the chat application.
 
-## Contributors
-
-- [Aqdas Zishan](#)
-- [Ashish Kumar Pandey](#)
+## Contributor
 - [Anmol Khari](#)
-- [Ayush Jindal](#)
-- [Sparsh Verma](#)
 
 Feel free to reach out to any of the contributors if you have questions or feedback!
 
@@ -62,9 +57,3 @@ Feel free to reach out to any of the contributors if you have questions or feedb
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-**Note:** Make sure to replace the placeholder `#` with the actual GitHub profiles or other relevant links for contributors.
-
-``` 
-
-In addition to the README.md file, ensure that you have the necessary files in your repository, including `index.js`, `client.js`, `first.html`, `first.css`, and any other files or directories required for your project. Commit and push your changes to your GitHub repository.
